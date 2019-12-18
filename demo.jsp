@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Welcome GITHUB </title>
+<title>Welcome to GITHUB </title>
 </head>
 <body>
 
